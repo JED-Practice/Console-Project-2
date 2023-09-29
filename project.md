@@ -38,5 +38,9 @@ Sistemin əsas məqsədi, anbarların idarə edilməsini rahatlaşdırmaqdır. S
 ## Reportlama üçün nümunə kitabxanalar:
 
 - [NPOI](https://www.nuget.org/packages/NPOI) ofis faylları üçündür daha çox
+
+  - kod nümunəsi üçün: https://www.geeksforgeeks.org/how-to-install-npoi-library-on-c/ baxa bilərsiniz
+
 - [MigraDoc](https://www.nuget.org/packages/PDFsharp/6.0.0-preview-1) pdf üçündür
+
   - kod nümunəsi üçün: https://github.com/empira/PDFsharp.Samples/blob/master/src/samples/src/MigraDoc/src/HelloWorld/Program.cs baxa bilərsiniz
