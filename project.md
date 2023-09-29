@@ -34,3 +34,9 @@ Sistemin əsas məqsədi, anbarların idarə edilməsini rahatlaşdırmaqdır. S
 6. **Axtarış və ya filterləmə:**
    - Məhsullara, tədarükçülərə və ya istifadəçilərə uyğun axtarış etmək mümkün olmalıdır
    - Reportların generasiyası zamanı filterləmə dəstəklənməlidir. Məsələn istifadəçi spesifik tarixdən bu günə olan satışlarını görmək istəyə bilər
+
+## Reportlama üçün nümunə kitabxanalar:
+
+- [NPOI](https://www.nuget.org/packages/NPOI) ofis faylları üçündür daha çox
+- [MigraDoc](https://www.nuget.org/packages/PDFsharp/6.0.0-preview-1) pdf üçündür
+  - kod nümunəsi üçün: https://github.com/empira/PDFsharp.Samples/blob/master/src/samples/src/MigraDoc/src/HelloWorld/Program.cs baxa bilərsiniz
